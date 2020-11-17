@@ -46,4 +46,6 @@ Once a spot has been picked on the board, a symbol associated with the type of r
 
 The same spot cannot be chosen again, any (x,y) coordinate chosen which does not exist on the board will be rejected and the player will be notified if their move is out if bounds.
 
+The treasures, bombs, good/bad surprises and time pack are placed in random locations throughout the board and as the board size gets bigger so do the number of surprises.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
