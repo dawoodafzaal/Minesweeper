@@ -1,7 +1,5 @@
 # Minesweeper
 
-This project was created by myself for a school project.
-
 This game was coded in assembly (ARM V8). The structure of the game is as followed:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
